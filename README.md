@@ -1,7 +1,7 @@
 # Ray Tracing Using OpenGL
 
-<img src="./demo/untraced.png" width="392px">
-<img src="./demo/traced.bmp" width="392px">
+<img src="./demo/untraced.png" width="500px">
+<img src="./demo/traced.bmp" width="500px">
 
 ## Running the program
 
