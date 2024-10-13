@@ -1,5 +1,8 @@
 # Ray Tracing Using OpenGL
 
+<img src="./demo/untraced.png" width="392px">
+<img src="./demo/traced.bmp" width="392px">
+
 ## Running the program
 
 1. Install opengl and glut
@@ -16,21 +19,21 @@ make run
 
 ## Controls
 
-| Key | Control |
-| --- | --- |
-| W   | Move forward |
-| S   | Move backward |
-| A   | Move left |
-| D   | Move right |
-| UP   | Move camera up |
-| DOWN   | Move camera down |
-| LEFT   | Move camera left |
-| RIGHT   | Move camera right |
-| 5   | Rotate camera clockwise |
-| 6   | Rotate camera counter-clockwise |
-| PGUP   | Increase height |
-| PGDOWN   | Decrease height |
-| C | Capture frame for Ray Tracing |
+| Key    | Control                         |
+| ------ | ------------------------------- |
+| W      | Move forward                    |
+| S      | Move backward                   |
+| A      | Move left                       |
+| D      | Move right                      |
+| UP     | Move camera up                  |
+| DOWN   | Move camera down                |
+| LEFT   | Move camera left                |
+| RIGHT  | Move camera right               |
+| 5      | Rotate camera clockwise         |
+| 6      | Rotate camera counter-clockwise |
+| PGUP   | Increase height                 |
+| PGDOWN | Decrease height                 |
+| C      | Capture frame for Ray Tracing   |
 
 ## Notes
 
