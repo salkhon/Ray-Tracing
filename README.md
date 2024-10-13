@@ -1,4 +1,4 @@
-# Ray Tracing Using OpenGL
+# Ray Tracing On OpenGL
 
 <img src="./demo/untraced.png" width="500px">
 <img src="./demo/traced.bmp" width="500px">
